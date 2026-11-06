@@ -1,0 +1,22 @@
+from_role,to_role,count,comment
+JDA,DA,10,грейд бойынша өсу (демо сарапшы бағасы — бөлім басшысы бекітуі тиіс)
+JDA,BA,2,
+JDA,BI,2,
+DA,SDA,6,грейд бойынша өсу
+DA,BI,3,
+DA,DS,3,
+DA,BA,2,
+DA,DE,1,
+SDA,DS,2,
+SDA,BI,2,
+SDA,BA,1,
+BI,DE,2,
+BI,SDA,1,
+BI,DA,1,
+DE,BI,1,
+DE,DS,1,
+DS,SDA,1,
+DS,DE,1,
+BA,DA,2,
+BA,SDA,1,
+BA,BI,1,

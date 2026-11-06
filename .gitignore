@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+# Node
+frontend/node_modules/
+frontend/dist/
+# Құпиялар
+.env
+# Үлкен/қайта жасалатын деректер
+data/karrierewege/*.zip
+data/processed/*.npz
+data/processed/kw_*.csv.gz
+reports/llm_cache/
+.playwright-mcp/

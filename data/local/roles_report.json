@@ -1,0 +1,172 @@
+[
+  {
+    "role": "JDA",
+    "esco_occupation": "data analyst",
+    "esco_occupation_id": "http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2",
+    "esco_essential_total": 36,
+    "esco_optional_total": 31,
+    "essential_excluded": 1,
+    "optional_included": 7,
+    "onet_added": [
+      "Amazon Web Services AWS software → cloud technologies",
+      "Python → Python (computer programming)",
+      "R → R",
+      "Structured query language SQL → SQL"
+    ],
+    "onet_unmapped": [
+      "Microsoft Office software",
+      "Microsoft PowerPoint",
+      "SAP software"
+    ],
+    "expert_added": [],
+    "requirements": 46
+  },
+  {
+    "role": "DA",
+    "esco_occupation": "data analyst",
+    "esco_occupation_id": "http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2",
+    "esco_essential_total": 36,
+    "esco_optional_total": 31,
+    "essential_excluded": 1,
+    "optional_included": 7,
+    "onet_added": [
+      "Amazon Web Services AWS software → cloud technologies",
+      "Python → Python (computer programming)",
+      "R → R",
+      "Structured query language SQL → SQL"
+    ],
+    "onet_unmapped": [
+      "Microsoft Office software",
+      "Microsoft PowerPoint",
+      "SAP software"
+    ],
+    "expert_added": [
+      "communicate with stakeholders"
+    ],
+    "requirements": 47
+  },
+  {
+    "role": "SDA",
+    "esco_occupation": "data analyst",
+    "esco_occupation_id": "http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2",
+    "esco_essential_total": 36,
+    "esco_optional_total": 31,
+    "essential_excluded": 1,
+    "optional_included": 7,
+    "onet_added": [
+      "Amazon Web Services AWS software → cloud technologies",
+      "Python → Python (computer programming)",
+      "R → R",
+      "Structured query language SQL → SQL"
+    ],
+    "onet_unmapped": [
+      "Microsoft Office software",
+      "Microsoft PowerPoint",
+      "SAP software"
+    ],
+    "expert_added": [
+      "mentor individuals",
+      "communicate with stakeholders",
+      "present reports",
+      "lead a team"
+    ],
+    "requirements": 50
+  },
+  {
+    "role": "BI",
+    "esco_occupation": "data warehouse designer",
+    "esco_occupation_id": "http://data.europa.eu/esco/occupation/1562c7a3-c7d9-419d-b9b6-db26610bcf84",
+    "esco_essential_total": 28,
+    "esco_optional_total": 82,
+    "essential_excluded": 7,
+    "optional_included": 10,
+    "onet_added": [
+      "Microsoft Access → Microsoft Access",
+      "Microsoft Excel → use spreadsheets software",
+      "Structured query language SQL → SQL"
+    ],
+    "onet_unmapped": [
+      "Microsoft Office software",
+      "Microsoft Outlook",
+      "Microsoft PowerPoint",
+      "SAP software"
+    ],
+    "expert_added": [
+      "data extraction, transformation and loading tools"
+    ],
+    "requirements": 35
+  },
+  {
+    "role": "DS",
+    "esco_occupation": "data scientist",
+    "esco_occupation_id": "http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30",
+    "esco_essential_total": 63,
+    "esco_optional_total": 34,
+    "essential_excluded": 24,
+    "optional_included": 6,
+    "onet_added": [
+      "Amazon Web Services AWS software → cloud technologies",
+      "Apache Hadoop → Hadoop",
+      "C++ → C++",
+      "Git → tools for software configuration management",
+      "NumPy → Python (computer programming)",
+      "Oracle Java → Java (computer programming)",
+      "PyTorch → deep learning",
+      "R → R",
+      "SAS → SAS language",
+      "Scala → Scala",
+      "Scikit-learn → machine learning",
+      "Structured query language SQL → SQL",
+      "The MathWorks MATLAB → MATLAB"
+    ],
+    "onet_unmapped": [
+      "Apache Spark",
+      "C",
+      "Docker"
+    ],
+    "expert_added": [
+      "machine learning",
+      "Python (computer programming)",
+      "deep learning"
+    ],
+    "requirements": 58
+  },
+  {
+    "role": "DE",
+    "esco_occupation": "database developer",
+    "esco_occupation_id": "http://data.europa.eu/esco/occupation/b11e1742-5e28-4270-b081-b0193d85ee7d",
+    "esco_essential_total": 20,
+    "esco_optional_total": 96,
+    "essential_excluded": 2,
+    "optional_included": 8,
+    "onet_added": [
+      "Amazon Web Services AWS software → cloud technologies",
+      "Microsoft Excel → use spreadsheets software",
+      "Microsoft Power BI → data visualisation software",
+      "Oracle Java → Java (computer programming)"
+    ],
+    "onet_unmapped": [
+      "Apache Spark",
+      "Microsoft Office software",
+      "Microsoft PowerPoint"
+    ],
+    "expert_added": [],
+    "requirements": 30
+  },
+  {
+    "role": "BA",
+    "esco_occupation": "ICT business analyst",
+    "esco_occupation_id": "http://data.europa.eu/esco/occupation/fe0fa514-b48d-4a53-9757-a283c0baacf0",
+    "esco_essential_total": 18,
+    "esco_optional_total": 19,
+    "essential_excluded": 0,
+    "optional_included": 5,
+    "onet_added": [],
+    "onet_unmapped": [],
+    "expert_added": [
+      "SQL",
+      "use spreadsheets software"
+    ],
+    "requirements": 25
+  }
+]

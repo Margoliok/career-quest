@@ -1,0 +1,240 @@
+{
+  "version": "ESCO v1.2.1 classification, CSV (en)",
+  "skills": 13939,
+  "occupations": 3039,
+  "relations": 126051,
+  "verification": {
+    "date": "2026-11-06",
+    "method": "random sample vs official ESCO API",
+    "n": 25,
+    "exact_match": 25,
+    "mean_jaccard": 1.0,
+    "rows": [
+      {
+        "occupation": "data analyst",
+        "api_ess": 36,
+        "csv_ess": 36,
+        "api_opt": 31,
+        "csv_opt": 31,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "costume attendant",
+        "api_ess": 12,
+        "csv_ess": 12,
+        "api_opt": 17,
+        "csv_opt": 17,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "airport maintenance technician",
+        "api_ess": 12,
+        "csv_ess": 12,
+        "api_opt": 21,
+        "csv_opt": 21,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "jewellery repairer",
+        "api_ess": 15,
+        "csv_ess": 15,
+        "api_opt": 22,
+        "csv_opt": 22,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "rolling stock engineering technician",
+        "api_ess": 26,
+        "csv_ess": 26,
+        "api_opt": 30,
+        "csv_opt": 30,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "solderer",
+        "api_ess": 17,
+        "csv_ess": 17,
+        "api_opt": 29,
+        "csv_opt": 29,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "costume maker",
+        "api_ess": 27,
+        "csv_ess": 27,
+        "api_opt": 21,
+        "csv_opt": 21,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "power lines supervisor",
+        "api_ess": 23,
+        "csv_ess": 23,
+        "api_opt": 20,
+        "csv_opt": 20,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "desktop publisher",
+        "api_ess": 20,
+        "csv_ess": 20,
+        "api_opt": 24,
+        "csv_opt": 24,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "marine engineer",
+        "api_ess": 20,
+        "csv_ess": 20,
+        "api_opt": 52,
+        "csv_opt": 52,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "tyre vulcaniser",
+        "api_ess": 13,
+        "csv_ess": 13,
+        "api_opt": 13,
+        "csv_opt": 13,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "drill press operator",
+        "api_ess": 16,
+        "csv_ess": 16,
+        "api_opt": 27,
+        "csv_opt": 27,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "advertising media buyer",
+        "api_ess": 13,
+        "csv_ess": 13,
+        "api_opt": 19,
+        "csv_opt": 19,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "medicine lecturer",
+        "api_ess": 31,
+        "csv_ess": 31,
+        "api_opt": 102,
+        "csv_opt": 102,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "fire service vehicle operator",
+        "api_ess": 23,
+        "csv_ess": 23,
+        "api_opt": 9,
+        "csv_opt": 9,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "coking furnace operator",
+        "api_ess": 12,
+        "csv_ess": 12,
+        "api_opt": 7,
+        "csv_opt": 7,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "footwear quality technician",
+        "api_ess": 14,
+        "csv_ess": 14,
+        "api_opt": 7,
+        "csv_opt": 7,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "welding engineer",
+        "api_ess": 29,
+        "csv_ess": 29,
+        "api_opt": 24,
+        "csv_opt": 24,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "podiatry assistant",
+        "api_ess": 29,
+        "csv_ess": 29,
+        "api_opt": 28,
+        "csv_opt": 28,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "disc jockey",
+        "api_ess": 19,
+        "csv_ess": 19,
+        "api_opt": 20,
+        "csv_opt": 20,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "civil enforcement officer",
+        "api_ess": 14,
+        "csv_ess": 14,
+        "api_opt": 32,
+        "csv_opt": 32,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "political affairs officer",
+        "api_ess": 10,
+        "csv_ess": 10,
+        "api_opt": 21,
+        "csv_opt": 21,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "crossing guard",
+        "api_ess": 10,
+        "csv_ess": 10,
+        "api_opt": 15,
+        "csv_opt": 15,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "crosscut saw operator",
+        "api_ess": 11,
+        "csv_ess": 11,
+        "api_opt": 17,
+        "csv_opt": 17,
+        "jaccard": 1.0,
+        "exact": true
+      },
+      {
+        "occupation": "marine cargo inspector",
+        "api_ess": 18,
+        "csv_ess": 18,
+        "api_opt": 4,
+        "csv_opt": 4,
+        "jaccard": 1.0,
+        "exact": true
+      }
+    ]
+  }
+}

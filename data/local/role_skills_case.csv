@@ -1,0 +1,292 @@
+﻿role,esco_id,label,weight,required_level,relation,source
+JDA,http://data.europa.eu/esco/skill/629685b8-5f9e-4522-8cff-b3e2c4ec625a,digital data processing,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339,information structure,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c,business intelligence,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180,data mining,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/327d15c8-29ff-4ad4-a4fe-6536d777a45f,documentation types,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213,visual presentation techniques,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639,data engineering,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1,data visualisation software,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/696e3b5b-8b61-45af-ae4c-3ab700f197ec,information extraction,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833,statistics,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6,information categorisation,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9,business analytics,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586,query languages,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db,information confidentiality,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666,unstructured data,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700,data quality assessment,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/e9575f7f-053a-439e-8074-f93df3334e92,data ethics,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01,data science,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5,data models,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc,normalise data,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522,use data processing techniques,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29,interpret current data,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec,establish data processes,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c,execute analytical mathematical calculations,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c,apply statistical analysis techniques,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278,perform data mining,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1,use databases,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc,integrate ICT data,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5,analyse big data,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e,handle data samples,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8,perform data cleansing,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/54c9c155-9293-4329-8ed2-2e76e8b519d4,define data quality criteria,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5,implement data quality processes,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a,collect ICT data,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f,manage data,1.0,2,essential,esco
+JDA,http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a,online analytical processing,0.5,1,optional,esco
+JDA,http://data.europa.eu/esco/skill/be20d05c-f6b4-4580-9fcf-f00f4baab562,make data-driven decisions,0.5,1,optional,esco
+JDA,http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22,statistical modeling techniques,0.5,1,optional,esco
+JDA,http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be,use spreadsheets software,0.5,1,optional,esco
+JDA,http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779,create data models,0.5,1,optional,esco
+JDA,http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817,report analysis results,0.5,1,optional,esco
+JDA,http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389,deliver visual presentation of data,0.5,1,optional,esco
+JDA,http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0,cloud technologies,0.5,1,optional,onet
+JDA,http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d,Python (computer programming),0.5,1,optional,onet
+JDA,http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b,R,0.5,1,optional,onet
+JDA,http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742,SQL,0.5,1,optional,onet
+DA,http://data.europa.eu/esco/skill/629685b8-5f9e-4522-8cff-b3e2c4ec625a,digital data processing,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339,information structure,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c,business intelligence,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180,data mining,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/327d15c8-29ff-4ad4-a4fe-6536d777a45f,documentation types,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213,visual presentation techniques,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639,data engineering,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1,data visualisation software,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/696e3b5b-8b61-45af-ae4c-3ab700f197ec,information extraction,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833,statistics,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6,information categorisation,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9,business analytics,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586,query languages,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db,information confidentiality,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666,unstructured data,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700,data quality assessment,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/e9575f7f-053a-439e-8074-f93df3334e92,data ethics,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01,data science,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5,data models,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc,normalise data,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522,use data processing techniques,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29,interpret current data,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec,establish data processes,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c,execute analytical mathematical calculations,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c,apply statistical analysis techniques,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278,perform data mining,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1,use databases,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc,integrate ICT data,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5,analyse big data,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e,handle data samples,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8,perform data cleansing,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/54c9c155-9293-4329-8ed2-2e76e8b519d4,define data quality criteria,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5,implement data quality processes,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a,collect ICT data,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f,manage data,1.0,3,essential,esco
+DA,http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a,online analytical processing,0.5,2,optional,esco
+DA,http://data.europa.eu/esco/skill/be20d05c-f6b4-4580-9fcf-f00f4baab562,make data-driven decisions,0.5,2,optional,esco
+DA,http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22,statistical modeling techniques,0.5,2,optional,esco
+DA,http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be,use spreadsheets software,0.5,2,optional,esco
+DA,http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779,create data models,0.5,2,optional,esco
+DA,http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817,report analysis results,0.5,2,optional,esco
+DA,http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389,deliver visual presentation of data,0.5,2,optional,esco
+DA,http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0,cloud technologies,0.5,2,optional,onet
+DA,http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d,Python (computer programming),0.5,2,optional,onet
+DA,http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b,R,0.5,2,optional,onet
+DA,http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742,SQL,0.5,2,optional,onet
+DA,http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284,communicate with stakeholders,0.5,2,expert,expert
+SDA,http://data.europa.eu/esco/skill/629685b8-5f9e-4522-8cff-b3e2c4ec625a,digital data processing,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339,information structure,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c,business intelligence,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180,data mining,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/327d15c8-29ff-4ad4-a4fe-6536d777a45f,documentation types,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213,visual presentation techniques,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639,data engineering,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1,data visualisation software,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/696e3b5b-8b61-45af-ae4c-3ab700f197ec,information extraction,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833,statistics,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6,information categorisation,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9,business analytics,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586,query languages,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db,information confidentiality,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666,unstructured data,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700,data quality assessment,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/e9575f7f-053a-439e-8074-f93df3334e92,data ethics,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01,data science,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5,data models,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc,normalise data,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522,use data processing techniques,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29,interpret current data,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec,establish data processes,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c,execute analytical mathematical calculations,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c,apply statistical analysis techniques,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278,perform data mining,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1,use databases,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc,integrate ICT data,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5,analyse big data,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e,handle data samples,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8,perform data cleansing,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/54c9c155-9293-4329-8ed2-2e76e8b519d4,define data quality criteria,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5,implement data quality processes,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a,collect ICT data,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f,manage data,1.0,4,essential,esco
+SDA,http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a,online analytical processing,0.5,3,optional,esco
+SDA,http://data.europa.eu/esco/skill/be20d05c-f6b4-4580-9fcf-f00f4baab562,make data-driven decisions,0.5,3,optional,esco
+SDA,http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22,statistical modeling techniques,0.5,3,optional,esco
+SDA,http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be,use spreadsheets software,0.5,3,optional,esco
+SDA,http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779,create data models,0.5,3,optional,esco
+SDA,http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817,report analysis results,0.5,3,optional,esco
+SDA,http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389,deliver visual presentation of data,0.5,3,optional,esco
+SDA,http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0,cloud technologies,0.5,3,optional,onet
+SDA,http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d,Python (computer programming),0.5,3,optional,onet
+SDA,http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b,R,0.5,3,optional,onet
+SDA,http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742,SQL,0.5,3,optional,onet
+SDA,http://data.europa.eu/esco/skill/a584a638-a2c0-4b3c-bdf3-a64f87225be9,mentor individuals,1.0,3,expert,expert
+SDA,http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284,communicate with stakeholders,1.0,3,expert,expert
+SDA,http://data.europa.eu/esco/skill/d0f2f8a7-d935-4a6d-8e54-dcc3e5e2cbeb,present reports,1.0,3,expert,expert
+SDA,http://data.europa.eu/esco/skill/1f1d2ff8-c4c1-45cc-9812-6a7ee84a73cb,lead a team,0.5,2,expert,expert
+BI,http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339,information structure,1.0,3,essential,esco
+BI,http://data.europa.eu/esco/skill/3ec2e4d6-7000-4905-bf1a-c5b1679416de,data warehouse,1.0,3,essential,esco
+BI,http://data.europa.eu/esco/skill/43ae58b9-5e56-4524-b45a-b422777a0576,database,1.0,3,essential,esco
+BI,http://data.europa.eu/esco/skill/7814e88f-c133-4c3b-b27f-857afa145d42,ICT security legislation,1.0,3,essential,esco
+BI,http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb,business process modelling,1.0,3,essential,esco
+BI,http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586,query languages,1.0,3,essential,esco
+BI,http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe,database development tools,1.0,3,essential,esco
+BI,http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f,database management systems,1.0,3,essential,esco
+BI,http://data.europa.eu/esco/skill/020918ef-4b55-47c1-8430-ab7b8f6a7377,migrate existing data,1.0,3,essential,esco
+BI,http://data.europa.eu/esco/skill/0b0335f3-0aa1-491e-895e-81fc8774a300,develop automated migration methods,1.0,3,essential,esco
+BI,http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f,manage database,1.0,3,essential,esco
+BI,http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba,create software design,1.0,3,essential,esco
+BI,http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1,use databases,1.0,3,essential,esco
+BI,http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c,write database documentation,1.0,3,essential,esco
+BI,http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511,design database scheme,1.0,3,essential,esco
+BI,http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec,operate relational database management system,1.0,3,essential,esco
+BI,http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f,create database diagrams,1.0,3,essential,esco
+BI,http://data.europa.eu/esco/skill/906323f4-00c4-4c3b-ab5a-8af77be3456e,create data sets,1.0,3,essential,esco
+BI,http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17,analyse business requirements,1.0,3,essential,esco
+BI,http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1,manage standards for data exchange,1.0,3,essential,esco
+BI,http://data.europa.eu/esco/skill/d9e5349e-8791-49c2-8ba4-839fdd1606c2,define technical requirements,1.0,3,essential,esco
+BI,http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1,data visualisation software,0.5,2,optional,esco
+BI,http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d,Python (computer programming),0.5,2,optional,esco
+BI,http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5,data models,0.5,2,optional,esco
+BI,http://data.europa.eu/esco/skill/dc72ad0a-c5dc-4abd-bc0d-ca43e82162e1,build business relationships,0.5,2,optional,esco
+BI,http://data.europa.eu/esco/skill/9d2f77af-4307-4ac5-bc50-a9980cec7e83,develop reporting software,0.5,2,optional,esco
+BI,http://data.europa.eu/esco/skill/c062bab3-3ea0-4291-9220-a2d8fef4bead,SQL Server,0.5,2,optional,esco
+BI,http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d,use query languages,0.5,2,optional,esco
+BI,http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f,perform data analysis,0.5,2,optional,esco
+BI,http://data.europa.eu/esco/skill/d3286405-49f8-4e8a-8046-a4376b4e7963,manage cloud data and storage,0.5,2,optional,esco
+BI,http://data.europa.eu/esco/skill/a8d07b5a-c1a1-42c6-9d53-db9c7a2ca996,PostgreSQL,0.5,2,optional,esco
+BI,http://data.europa.eu/esco/skill/3d03c40c-1b83-4793-8902-2523f40af59e,Microsoft Access,0.5,2,optional,onet
+BI,http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be,use spreadsheets software,0.5,2,optional,onet
+BI,http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742,SQL,0.5,2,optional,onet
+BI,http://data.europa.eu/esco/skill/9d0d89be-bffa-4393-b6f6-8d05bea49051,"data extraction, transformation and loading tools",1.0,3,expert,expert
+DS,http://data.europa.eu/esco/skill/0760bfac-9a03-427a-ad84-ccd33a2f2ae8,mathematical modelling,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/25f0ea33-b4a2-4f31-b7b4-7d20e827b180,data mining,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213,visual presentation techniques,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639,data engineering,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/6360a934-cc87-4954-9656-b32db20592e3,quantitative analysis,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1,data visualisation software,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/68ef0e4d-5542-4e64-84f4-752cce5a3c22,statistical modeling techniques,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/696e3b5b-8b61-45af-ae4c-3ab700f197ec,information extraction,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833,statistics,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/93aaf65c-5aad-4e6f-a7ba-ce9bf7c0e6e6,information categorisation,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586,query languages,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/b0a3bb25-a02f-43ed-ab1f-994fa66a424a,online analytical processing,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/e9575f7f-053a-439e-8074-f93df3334e92,data ethics,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01,data science,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/f6ac6241-adb2-4ce2-b35f-09832cbb11ea,empirical analysis,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5,data models,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc,normalise data,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522,use data processing techniques,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/1e77e42a-181f-4b48-8e74-201ce50ffc29,interpret current data,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/2b34764d-637c-48f5-aa70-31e15c965db6,operate open source software,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec,establish data processes,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c,execute analytical mathematical calculations,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1,use databases,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/4a193795-fa63-414e-9f2e-bfdb3924571e,handle data samples,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/505e4ef3-7ce4-437d-b7b4-5c608f71c258,build recommender systems,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8,perform data cleansing,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511,design database scheme,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5,implement data quality processes,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/79e29b8b-47d1-470d-b7b1-32506bfe7d9a,collect ICT data,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/9a58cd26-58eb-4a1c-b1b6-64037fe9cfa1,think abstractly,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/a584a638-a2c0-4b3c-bdf3-a64f87225be9,mentor individuals,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757,manage data collection systems,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/a8d24a95-47b3-4f88-92e7-06600bcd3612,manage personal professional development,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389,deliver visual presentation of data,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817,report analysis results,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68,perform project management,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/f715be1d-5fc4-49d3-82a5-0b8090d12849,synthesise information,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab,develop data processing applications,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/ff64e9fc-36dd-4035-872a-83aa41dc1ad9,communicate with a non-scientific audience,1.0,3,essential,esco
+DS,http://data.europa.eu/esco/skill/be20d05c-f6b4-4580-9fcf-f00f4baab562,make data-driven decisions,0.5,2,optional,esco
+DS,http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be,use spreadsheets software,0.5,2,optional,esco
+DS,http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779,create data models,0.5,2,optional,esco
+DS,http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278,perform data mining,0.5,2,optional,esco
+DS,http://data.europa.eu/esco/skill/98a1dec3-8138-4f46-a596-5e2a83b884b9,business analytics,0.5,2,optional,esco
+DS,http://data.europa.eu/esco/skill/c5e8abde-d2ba-4e8e-a65e-720b71180666,unstructured data,0.5,2,optional,esco
+DS,http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0,cloud technologies,0.5,2,optional,onet
+DS,http://data.europa.eu/esco/skill/e46291c7-52b9-4174-bd59-178884861038,Hadoop,0.5,2,optional,onet
+DS,http://data.europa.eu/esco/skill/b633eb55-8f1f-4ae6-ab4c-2022ffe2cb7f,C++,0.5,2,optional,onet
+DS,http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f,tools for software configuration management,0.5,2,optional,onet
+DS,http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d,Python (computer programming),1.0,3,expert,expert
+DS,http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389,Java (computer programming),0.5,2,optional,onet
+DS,http://data.europa.eu/esco/skill/ecc4552a-92c5-4222-b18d-faf5ac841080,deep learning,0.5,2,expert,expert
+DS,http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b,R,0.5,2,optional,onet
+DS,http://data.europa.eu/esco/skill/04f1b938-d4d4-4cb1-a863-982af76b9d93,SAS language,0.5,2,optional,onet
+DS,http://data.europa.eu/esco/skill/ffddfc7c-a9dd-449f-9e96-882dc447c8b6,Scala,0.5,2,optional,onet
+DS,http://data.europa.eu/esco/skill/3a2d5b45-56e4-4f5a-a55a-4a4a65afdc43,machine learning,1.0,3,expert,expert
+DS,http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742,SQL,0.5,2,optional,onet
+DS,http://data.europa.eu/esco/skill/c3a03c5a-c260-4c26-9b9a-873abb396f4d,MATLAB,0.5,2,optional,onet
+DE,http://data.europa.eu/esco/skill/9cf681c7-89ec-470c-b651-7fe03786f586,query languages,1.0,3,essential,esco
+DE,http://data.europa.eu/esco/skill/9d0d89be-bffa-4393-b6f6-8d05bea49051,"data extraction, transformation and loading tools",1.0,3,essential,esco
+DE,http://data.europa.eu/esco/skill/9ef0f3a0-9ce2-4ef1-a987-0366b5cb2dbe,database development tools,1.0,3,essential,esco
+DE,http://data.europa.eu/esco/skill/a7f0fbe0-c546-4f30-8e41-34a58c64567e,data storage,1.0,3,essential,esco
+DE,http://data.europa.eu/esco/skill/ab1e97ed-2319-4293-a8b7-072d2648822f,database management systems,1.0,3,essential,esco
+DE,http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700,data quality assessment,1.0,3,essential,esco
+DE,http://data.europa.eu/esco/skill/04fe962b-4017-4eb7-9139-7d69b6922bc9,use an application-specific interface,1.0,3,essential,esco
+DE,http://data.europa.eu/esco/skill/0e0c9c11-b39e-43cf-ba95-2fe646f5de64,identify customer requirements,1.0,3,essential,esco
+DE,http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1,use databases,1.0,3,essential,esco
+DE,http://data.europa.eu/esco/skill/64db87c7-2360-4e20-88d3-d222402e477c,write database documentation,1.0,3,essential,esco
+DE,http://data.europa.eu/esco/skill/85c11255-469f-41bd-a6d1-382bc4a87783,interpret technical texts,1.0,3,essential,esco
+DE,http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8,apply information security policies,1.0,3,essential,esco
+DE,http://data.europa.eu/esco/skill/9ba8fd27-275d-4bad-8c48-f668aa99a578,balance database resources,1.0,3,essential,esco
+DE,http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817,report analysis results,1.0,3,essential,esco
+DE,http://data.europa.eu/esco/skill/cf3e976d-2c3e-495c-a874-f9e8a66d3b48,perform backups,1.0,3,essential,esco
+DE,http://data.europa.eu/esco/skill/e207163b-7963-4c3e-9494-7a4bb000211b,estimate duration of work,1.0,3,essential,esco
+DE,http://data.europa.eu/esco/skill/e2fb1ee4-fbf9-4690-b677-3e6ff7cfdc48,test ICT queries,1.0,3,essential,esco
+DE,http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779,create data models,1.0,3,essential,esco
+DE,http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97,computer programming,0.5,2,optional,esco
+DE,http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639,data engineering,0.5,2,optional,esco
+DE,http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d,Python (computer programming),0.5,2,optional,esco
+DE,http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742,SQL,0.5,2,optional,esco
+DE,http://data.europa.eu/esco/skill/e46291c7-52b9-4174-bd59-178884861038,Hadoop,0.5,2,optional,esco
+DE,http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d,use query languages,0.5,2,optional,esco
+DE,http://data.europa.eu/esco/skill/d3286405-49f8-4e8a-8046-a4376b4e7963,manage cloud data and storage,0.5,2,optional,esco
+DE,http://data.europa.eu/esco/skill/a8d07b5a-c1a1-42c6-9d53-db9c7a2ca996,PostgreSQL,0.5,2,optional,esco
+DE,http://data.europa.eu/esco/skill/bd14968e-e409-45af-b362-3495ed7b10e0,cloud technologies,0.5,2,optional,onet
+DE,http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be,use spreadsheets software,0.5,2,optional,onet
+DE,http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1,data visualisation software,0.5,2,optional,onet
+DE,http://data.europa.eu/esco/skill/19a8293b-8e95-4de3-983f-77484079c389,Java (computer programming),0.5,2,optional,onet
+BA,http://data.europa.eu/esco/skill/0ee94c0a-3716-494a-95a2-dcbab9e58be2,business requirements techniques,1.0,3,essential,esco
+BA,http://data.europa.eu/esco/skill/397da142-ab35-48fe-b154-7c38f447adfb,digital systems,1.0,3,essential,esco
+BA,http://data.europa.eu/esco/skill/4913d0c0-133a-4c46-aac3-f5d4989a982e,product usage risks analysis,1.0,3,essential,esco
+BA,http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb,business process modelling,1.0,3,essential,esco
+BA,http://data.europa.eu/esco/skill/a846cb9e-c152-41e7-bd34-45e7ff941e3b,legal requirements of ICT products,1.0,3,essential,esco
+BA,http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328,propose ICT solutions to business problems,1.0,3,essential,esco
+BA,http://data.europa.eu/esco/skill/0e0c9c11-b39e-43cf-ba95-2fe646f5de64,identify customer requirements,1.0,3,essential,esco
+BA,http://data.europa.eu/esco/skill/2d6d4784-0992-48e7-b100-22d7229b3f0a,translate requirements into visual design,1.0,3,essential,esco
+BA,http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca,apply change management,1.0,3,essential,esco
+BA,http://data.europa.eu/esco/skill/48b68726-0fd6-4e03-a5eb-82236516ee7a,provide cost benefit analysis reports,1.0,3,essential,esco
+BA,http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e,analyse business processes,1.0,3,essential,esco
+BA,http://data.europa.eu/esco/skill/6a7792a9-888a-46ad-afc9-2c0d94c8fde6,create business process models,1.0,3,essential,esco
+BA,http://data.europa.eu/esco/skill/9714735d-6f60-440b-bdbc-aaf45ebcbe78,analyse the context of an organisation,1.0,3,essential,esco
+BA,http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363,interact with users to gather requirements,1.0,3,essential,esco
+BA,http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17,analyse business requirements,1.0,3,essential,esco
+BA,http://data.europa.eu/esco/skill/b9bf9e17-ae47-417b-bbb1-e8b7c263ccac,identify legal requirements,1.0,3,essential,esco
+BA,http://data.europa.eu/esco/skill/d9e5349e-8791-49c2-8ba4-839fdd1606c2,define technical requirements,1.0,3,essential,esco
+BA,http://data.europa.eu/esco/skill/f7b5d916-52f0-4865-b6a6-e1a3b711cb5e,implement strategic planning,1.0,3,essential,esco
+BA,http://data.europa.eu/esco/skill/348b74cd-49ce-4844-8bdf-ec188b497213,visual presentation techniques,0.5,2,optional,esco
+BA,http://data.europa.eu/esco/skill/3ce1fe19-7f9e-4070-941d-651673a5693b,decision support systems,0.5,2,optional,esco
+BA,http://data.europa.eu/esco/skill/385479b7-5da5-4367-9763-0d15b41bb65b,provide user documentation,0.5,2,optional,esco
+BA,http://data.europa.eu/esco/skill/143769cb-b61e-47d8-a61e-eedfbec1016c,business intelligence,0.5,2,optional,esco
+BA,http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7,manage ICT project,0.5,2,optional,esco
+BA,http://data.europa.eu/esco/skill/598de5b0-5b58-4ea7-8058-a4bc4d18c742,SQL,0.5,2,expert,expert
+BA,http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be,use spreadsheets software,0.5,3,expert,expert

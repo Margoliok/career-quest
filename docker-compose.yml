@@ -1,0 +1,50 @@
+name: career-quest
+
+services:
+  db:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_USER: careerquest
+      POSTGRES_PASSWORD: careerquest
+      POSTGRES_DB: careerquest
+    ports:
+      - "5433:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U careerquest -d careerquest"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  backend:
+    build: ./backend
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      DATABASE_URL: postgresql+psycopg://careerquest:careerquest@db:5432/careerquest
+      DATA_DIR: /data
+      REPORTS_DIR: /reports
+      CACHE_DIR: /data/processed
+      HF_HOME: /hf
+    volumes:
+      - ./data:/data
+      - ./reports:/reports
+      - hfcache:/hf
+    depends_on:
+      db:
+        condition: service_healthy
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build: ./frontend
+    depends_on:
+      - backend
+    ports:
+      - "8080:80"
+
+volumes:
+  pgdata:
+  hfcache:

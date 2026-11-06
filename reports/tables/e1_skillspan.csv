@@ -1,0 +1,3 @@
+﻿method,subset,P,R,F1,P_loose,R_loose,F1_loose,gold_spans,pred_spans
+dictionary (ESCO labels),test (n=3507),0.2939,0.1307,0.1809,0.4926,0.2155,0.2998,2265,1007
+dictionary (ESCO labels),sample (n=300),0.2581,0.1257,0.169,0.4624,0.2147,0.2932,191,93

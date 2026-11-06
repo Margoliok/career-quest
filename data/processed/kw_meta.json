@@ -1,0 +1,35 @@
+{
+  "source": "ElenaSenger/Karrierewege (HuggingFace)",
+  "splits": {
+    "train": {
+      "rows": 1984507,
+      "trajectories": 455129,
+      "occupations": 1232,
+      "label_match_rate": 0.99992,
+      "top_unmatched": {
+        "cloud DevOps engineer ": 99,
+        " artificial intelligence engineer ": 51
+      }
+    },
+    "validation": {
+      "rows": 248440,
+      "trajectories": 56909,
+      "occupations": 1087,
+      "label_match_rate": 0.9999,
+      "top_unmatched": {
+        "cloud DevOps engineer ": 20,
+        " artificial intelligence engineer ": 5
+      }
+    },
+    "test": {
+      "rows": 247229,
+      "trajectories": 56850,
+      "occupations": 1081,
+      "label_match_rate": 0.99993,
+      "top_unmatched": {
+        "cloud DevOps engineer ": 10,
+        " artificial intelligence engineer ": 8
+      }
+    }
+  }
+}
